@@ -26,6 +26,12 @@ To get started with this project, follow the steps below:
 - A code editor like [Visual Studio Code](https://code.visualstudio.com/).
 - An Android or iOS emulator, or a physical device connected to your machine.
 
+## Team
+
+- **Tharun S** - [GitHub Profile](https://github.com/TharunSaro)
+- **Sudharsh M** - [GitHub Profile](https://github.com/MSudharsh110305)
+- **Vasu B** - [GitHub Profile](https://github.com/Vasu-Balasubramaniyan)
+
 ### Clone the Repository
 
 ```bash
